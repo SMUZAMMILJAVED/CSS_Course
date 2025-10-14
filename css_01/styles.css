@@ -1,0 +1,51 @@
+/* body{
+    background-color: black;
+    font-family: sans-serif;
+}
+p,h1{
+    color: green;
+    background-color: yellow;
+    border: 12px solid brown;
+} */
+ /* body{
+    color: aqua;
+ }
+ *{
+    color: red;
+ }
+ h1{
+    color: black;
+ }
+ .heading{
+    color: brown;
+ }
+ #h_1{
+color: aqua;
+ }
+ h1{
+    color: blue !important;
+ } */
+  /* .parent > .child{
+    color: red;
+  } */
+
+ /* p{
+    color:red
+ }
+  p{
+    font-weight:900;
+   
+  }
+  p{
+    color: rgba(0,0,255,0.2);
+  }
+  p{
+    color: #ff000099;
+  }
+  p{
+    color: hsl(0, 100%, 50%);
+  } */
+   /* h1{
+      color: rgba(255, 0, 0, 0.5);
+      opacity: 0.5;
+   } */
