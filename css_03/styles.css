@@ -1,0 +1,130 @@
+/* body{
+    background-color: #000;
+    color:white
+} */
+/* *{
+    margin: 0px;
+    padding: 0px;
+}
+ ul{
+    background-color: blue;
+    text-align: center;
+    padding: 3px;
+    
+    
+ }
+ li{
+    display: inline;
+    margin: 20px;
+ }
+ li:hover{
+    color: white;
+ }
+ span{
+    display: block;
+ }
+ .hide{
+   visibility: hidden;
+   display: none;
+ } */
+
+ /* h1 {
+ border: 10px solid transparent;
+ border-image: url("https://thumbs.dreamstime.com/b/fancy-page-border-two-4243355.jpg") 30 stretch;;
+ padding: 20px;
+} */
+ /* .box{
+    margin-left: 30px;
+    margin-top: 30px;
+    height: 100px;
+    width: 100px;
+    background-color: #000;
+    box-shadow: -12px -12px 12px 12px #f00;
+    border-right-style:solid;
+    border-right-color:yellow;
+     border-right-width:40px;
+     border-radius: 50%;
+
+ }
+
+ .box_2{
+clip-path: polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%);background: #000;
+height: 100px;
+width: 100px;
+margin: 30px;
+ } */
+
+/* ol{
+    list-style-type: decimal-leading-zero;
+    list-style-position: inside;
+    list-style: circle inside;
+} */
+ /* table{
+    
+    empty-cells: hide;
+
+    border-collapse:collapse ;
+        border-spacing: 20px;
+ }
+ td{
+    border: 2px solid #f00;
+ } */
+
+ /* div{
+    display: inline-block;
+    background-color: #000;
+    height: 100px;
+    color: #fff;
+ }
+ .cursor{
+    cursor: pointer;
+
+ }
+  */
+  /* div{
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+background-color: #000;
+  } */
+/* div{
+    border: solid;
+}
+.parent{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    right: 0px;
+    bottom: 0px;
+
+}
+.child{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+} */
+ /* *{
+    margin: 0px;
+    padding: 0px;
+ }
+ .footer{
+    position: fixed;
+    width: 100%;
+    background: #000;
+    color: #fff;
+    bottom: 0px;
+ } */
+  /* div{
+    background-color: #000;
+    height: 100px;
+    width: 100px;
+
+
+  }
+  .box{
+    margin-bottom: 2px;
+  } */
+   /* div{
+    border: solid;
+    padding: 20px;
+   } */
