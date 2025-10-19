@@ -1,0 +1,39 @@
+/* div{
+    display: inline-block;
+    background-color: #000;
+    color: white;
+    height: 100px;
+} */
+ /* div{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    background-color: black;
+    color: white;
+ } */
+  /* .parent{
+    border: solid;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: -10px;
+    left: 90px;
+  }
+  .child{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    background-color: black;
+    color: white;
+  } */
+   *{
+    margin: 0px;
+    padding: 0px;
+   }
+   div{
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    color: white;
+    bottom: 0px;
+   }
