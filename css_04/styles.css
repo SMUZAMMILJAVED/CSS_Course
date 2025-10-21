@@ -4,14 +4,14 @@
     color: white;
     height: 100px;
 } */
- /* div{
+/* div{
     position: absolute;
     bottom: 0px;
     right: 0px;
     background-color: black;
     color: white;
  } */
-  /* .parent{
+/* .parent{
     border: solid;
     width: 100px;
     height: 100px;
@@ -26,7 +26,7 @@
     background-color: black;
     color: white;
   } */
-   *{
+/* *{
     margin: 0px;
     padding: 0px;
    }
@@ -36,4 +36,60 @@
     background-color: black;
     color: white;
     bottom: 0px;
-   }
+   } */
+/* h1{
+      text-align: center;
+    } */
+/* .img_1{
+      height: 200px;
+      width: 200px;
+      float: left;
+    }
+    .div_1{
+      height: 200px;
+      width: 200px;
+      border: solid;
+      overflow: scroll;
+      float: left;
+    }
+    .clear{
+      clear:both;
+    }
+    .img_2{
+      height: 200px;
+      width: 200px;
+      position: absolute;
+      top: 20px;
+      left: 60px;
+      z-index: -1;
+      opacity: 0.5;
+    } */
+/* div {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  height: 100px;
+  width: 100px;
+}
+
+.box_1 {
+  background: green;
+  z-index: 8;
+  left: 20px;
+}
+
+.box_2 {
+  background-color: blue;
+  z-index: 10;
+  left: 80px;
+}
+
+.box_3 {
+  background-color: red;
+  z-index: 6;
+  left: 100px;
+} */
+ /* div{
+  position: static;
+  bottom: 0px;
+ } */
